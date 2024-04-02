@@ -1,4 +1,4 @@
-# SSL_FACUNDO_CURTI
+# SSL_CURTI_FACUNDO
 
 Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes.
 
